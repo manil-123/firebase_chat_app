@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "845955946648",
+    "project_id": "flash-chat-ce6de",
+    "storage_bucket": "flash-chat-ce6de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845955946648:android:a04ca70aca8fdc07f4d8ed",
+        "android_client_info": {
+          "package_name": "co.manil.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845955946648-hapqi75iarfsdmv2umsmgb5j0e3915dh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAivY9KtDgO6wQY34z8-gOfsLJDISG58cM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845955946648-hapqi75iarfsdmv2umsmgb5j0e3915dh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
